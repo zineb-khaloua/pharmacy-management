@@ -12,15 +12,18 @@
  # version 1.0.0
  ## ✨ Key Features
 
+-📊 Dashboard Overview – Track real-time sales, revenue(daily, weekly, monthly, and yearly), expired medications, total 
+                           orders, and patient statistics.
+
 - 📦 Medication Management – Add, update, and monitor medications with expiry date tracking.
 
-- 🛒 Order & Sales Processing – Manage customer orders, generate invoices, and track sales history.
+- 🛒 Order & Sales Processing – Manage customer orders  generate invoices, and track sales history.
 
-- 🔎 Stock Monitoring – Automatic alerts for low-stock and expired medicines.
+- 🔎 Stock Monitoring – Automatic alerts for low-stock .
 
 - 📋 Supplier & Category Management – Organize suppliers and categorize medications efficiently.
 
-- 🏥 Patient Records – Securely store patient details and prescriptions.
+- 🏥 Patient Records – Securely store patient details .
 
 - 🔐 User Management & Roles – Role-based authentication (Admin, Pharmacist, etc.).
 
@@ -31,7 +34,7 @@
 
  - Backend: PHP-8
 
- - Frontend: HTML, CSS, JavaScript (jQuery, Ajax),Bootstrap
+ - Frontend: HTML5, CSS3, JavaScript (jQuery, Ajax), Bootstrap
 
  - Database: MySQL
 
@@ -39,7 +42,7 @@
 
  - Clone the project
 
-- git clone [https://votre-repository.git]([https://github.com/zineb-khaloua/CRUD-PHP-MVC.git](https://github.com/zineb-khaloua/pharmacy-management.git)
+- git clone [https://votre-repository.git](https://github.com/zineb-khaloua/pharmacy-management.git)
 
 - Create a new database 
 
