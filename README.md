@@ -1,7 +1,7 @@
 
 # pharmacy-managment-system
 
-"The Pharmacy Management System is a robust and scalable web application
+"The Pharmacy Management System is a robust  web application
  designed to efficiently manage pharmacy operations. It provides tools for 
  handling medication inventory, sales processing, supplier tracking,
  and patient records management. Built with PHP using an MVC architecture, 
@@ -42,7 +42,7 @@
 
  - Clone the project
 
-- git clone [https://votre-repository.git](https://github.com/zineb-khaloua/pharmacy-management.git)
+- git clone (https://github.com/zineb-khaloua/pharmacy-management.git)
 
 - Create a new database 
 
@@ -58,4 +58,9 @@
 
 - Start the PHP built-in server with  : php -S localhost:8000 -t public 
 
-- -_- 
+- -_-
+
+- ## admin login
+-  username:admin
+-  password:admin123
+-  
