@@ -1,0 +1,26 @@
+.status-dropdown {
+    border-radius: 25px;
+    padding: 5px 8px;
+    font-size: 13px;
+    border: 2px solid #ccc;
+    background-color: #f8f9fa;
+    outline: none;
+    cursor: pointer;
+    width:105px;
+  
+}
+
+.status-dropdown.pending {
+    background-color: orange;
+    color: white;
+}
+
+.status-dropdown.completed {
+    background-color: green;
+    color: white;
+}
+
+.status-dropdown.cancelled {
+    background-color: red;
+    color: white;
+}
