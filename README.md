@@ -1,5 +1,5 @@
 
-# pharmacy-managment-system
+# pharmacy-management-system
 
 "The Pharmacy Management System is a robust  web application
  designed to efficiently manage pharmacy operations. It provides tools for 
