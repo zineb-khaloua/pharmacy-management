@@ -39,15 +39,15 @@
 
  - Clone the project
 
-- git clone [https://votre-repository.git](https://github.com/zineb-khaloua/CRUD-PHP-MVC.git)
+- git clone [https://votre-repository.git]([https://github.com/zineb-khaloua/CRUD-PHP-MVC.git](https://github.com/zineb-khaloua/pharmacy-management.git)
 
 - Create a new database 
 
-- Navigate to DATABASE/stagiaire.sql.
+- Navigate to src/DATABASE/pharmacy_management.sql.
 
 - Import this file into the your database.
 
-- Locate the file src/Connectors/DB.php.
+- Locate the file src/core/DB.php.
 
 - Ensure the details match your local environment
 
